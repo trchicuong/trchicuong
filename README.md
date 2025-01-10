@@ -20,4 +20,4 @@
 
 - [Facebook](https://fb.com/chicuong.user) <br>
 - [Instagram](https://www.instagram.com/_tchicuong) <br>
-- [Discord](https://discord.gg/kVRKVF8YUm)
+- [Discord](https://discord.com/users/937202254266630185)
