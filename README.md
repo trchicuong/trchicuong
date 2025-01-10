@@ -18,6 +18,6 @@
 
 ### Connect with Me
 
-[Facebook](https://fb.com/chicuong.user) <br>
-[Instagram](https://www.instagram.com/_tchicuong) <br>
-[Discord](https://discord.gg/kVRKVF8YUm)
+- [Facebook](https://fb.com/chicuong.user) <br>
+- [Instagram](https://www.instagram.com/_tchicuong) <br>
+- [Discord](https://discord.gg/kVRKVF8YUm)
