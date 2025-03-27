@@ -47,10 +47,6 @@
 - 🌐 Website: [guns.lol/justinbepoor](https://guns.lol/justinbepoor) *(All my social links)*
 - 📧 Email: pokekeeze1@gmail.com
 
-### 📂 Current Projects
-- 🚧 Working on [Project Name] – [Brief Description]
-- 📝 Writing about [Topic] on my blog
-
 ### 💡 Learning & Interests
 I'm currently exploring:
 - 🤖 AI, Robotics & Machine Learning
