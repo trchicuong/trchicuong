@@ -60,7 +60,7 @@ I'm currently exploring:
 ### 📜 GitHub Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=trchicuong&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trchicuong&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trchicuong&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
 </div>
 
 ### 📌 Pinned Repositories
