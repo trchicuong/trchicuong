@@ -2,7 +2,7 @@
 
 ### 🧸 About Me
 - 💻 I'm currently working on my house and studying at HUTECH University  
-- 💡 I’m currently learning AI, Robotics and Hardware  
+- 💡 I’m currently learning AI, Robotics and Machine Learning  
 - 🔧 I'm currently developing personal and business website projects, social media bots, and APIs  
 - ✨ Pronouns: chustin  
 - ⚡ Fun fact: I love chilling in my room while coding. :v  
