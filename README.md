@@ -60,7 +60,7 @@ I'm currently exploring:
 </div>
 
 ### 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=trchicuong&repo=api-whm&theme=radical)](https://github.com/trchicuong/api-whm)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=trchicuong&repo=bot-tickets&theme=radical)](https://github.com/trchicuong/bot-tickets)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=trchicuong&repo=discord-bot&theme=radical)](https://github.com/trchicuong/discord-bot)
 
 ---
