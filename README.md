@@ -55,13 +55,13 @@ I'm currently exploring:
 
 ### 📜 GitHub Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=trchicuong&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trchicuong&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=trchicuong&show_icons=true&include_all_commits=true&theme=highcontrast" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trchicuong&layout=compact&theme=highcontrast" alt="Top Languages" width="40%"/>
 </div>
 
 ### 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=trchicuong&repo=bot-tickets&theme=radical)](https://github.com/trchicuong/bot-tickets)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=trchicuong&repo=discord-bot&theme=radical)](https://github.com/trchicuong/discord-bot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=trchicuong&repo=bot-tickets&theme=highcontrast)](https://github.com/trchicuong/bot-tickets)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=trchicuong&repo=discord-bot&theme=highcontrast)](https://github.com/trchicuong/discord-bot)
 
 ---
 *Thank you for visiting my page! Feel free to give me any feedback on my mistakes! 🍀*
