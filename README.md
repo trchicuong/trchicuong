@@ -66,5 +66,5 @@ I'm currently exploring:
 ---
 *Thank you for visiting my page! Feel free to give me any feedback on my mistakes! 🍀*
 
-![Profile Views](https://komarev.com/ghpvc/?username=trchicuong&color=blue&abbreviated=true&base=1000)
+![Profile Views](https://komarev.com/ghpvc/?username=trchicuong&color=blue&abbreviated=true)
 
