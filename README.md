@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 
 ### 📫 Connect with Me
-- 🌐 Website: [guns.lol/justinbepoor](https://guns.lol/justinbepoor) *(All my social links)*
+- 🌐 Website: [linkbio.co/trchicuong](https://linkbio.co/trchicuong) *(All my social links)*
 - 📧 Email: pokekeeze1@gmail.com
 
 ### 💡 Learning & Interests
