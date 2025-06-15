@@ -59,10 +59,6 @@ I'm currently exploring:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trchicuong&layout=compact&theme=highcontrast" alt="Top Languages" width="40%"/>
 </div>
 
-### 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=trchicuong&repo=bot-tickets&theme=highcontrast)](https://github.com/trchicuong/bot-tickets)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=trchicuong&repo=discord-bot&theme=highcontrast)](https://github.com/trchicuong/discord-bot)
-
 ---
 *Thank you for visiting my page! Feel free to give me any feedback on my mistakes! 🍀*
 
