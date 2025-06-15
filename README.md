@@ -56,7 +56,7 @@ I'm currently exploring:
 ### 📜 GitHub Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=trchicuong&show_icons=true&theme=highcontrast" alt="GitHub Stats" width="44%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trchicuong&layout=compact&theme=highcontrast" alt="Top Languages" width="42%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trchicuong&layout=compact&theme=highcontrast" alt="Top Languages" width="40%"/>
 </div>
 
 ---
