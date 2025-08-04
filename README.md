@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 
 ### 📫 Connect with Me
-- 🌐 Website: [linkbio.co/trchicuong](https://linkbio.co/trchicuong) *(All my social links)*
+- 🌐 Website: [trchicuong.netlify.app](https://trchicuong.netlify.app/) *(My profile)*
 - 📧 Email: pokekeeze1@gmail.com
 
 ### 💡 Learning & Interests
