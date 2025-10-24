@@ -10,16 +10,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=trchicuong&show_icons=true&theme=dark&hide_border=true&bg_color=151515&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trchicuong&layout=compact&theme=dark&hide_border=true&bg_color=151515&title_color=00d9ff&text_color=ffffff&langs_count=8" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=trchicuong&show_icons=true&theme=dark&hide_border=true&bg_color=151515&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trchicuong&layout=compact&theme=dark&hide_border=true&bg_color=151515&title_color=00d9ff&text_color=ffffff&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trchicuong&theme=onestar&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img width="70%" src="https://github-profile-trophy.vercel.app/?username=trchicuong&theme=onestar&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trchicuong&theme=github-compact&hide_border=true&bg_color=151515&color=00d9ff&line=00d9ff&point=ffffff" alt="Contribution Graph" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=trchicuong&theme=github-compact&hide_border=true&bg_color=151515&color=00d9ff&line=00d9ff&point=ffffff" alt="Contribution Graph" />
 </p>
 
 ---
