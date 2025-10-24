@@ -3,7 +3,7 @@
 ### 📫 Connect with Me
 
 - 🌐 Website: [trchicuong.id.vn](https://trchicuong.id.vn/) _(My portfolio)_
-- ☕ Sponsor: [sponsor.trchicuong.id.vn](https://trchicuong.id.vn/) _(My sponsor page)_
+- ☕ Sponsor: [sponsor.trchicuong.id.vn](https://sponsor.trchicuong.id.vn/) _(My sponsor page)_
 
 ---
 
